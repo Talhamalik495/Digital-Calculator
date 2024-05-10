@@ -5,12 +5,15 @@
 }
 
 .width {
+    border: 1px solid white;
     height: 80px;
-    width: 300px;
+    width: 250px;
     background-color: black;
     color: white;
     font-size: 30px;
     padding-left: 20px;
+    background-color: white;
+    color: black;
 }
 
 body {
