@@ -1,7 +1,8 @@
 const val = (b) => {
     document.getElementById("input_plus_past").value += b;
-
 }
+
+
 const solve = () => {
     let a = document.getElementById("input_plus_past").value
     let c = eval(a)
@@ -10,5 +11,3 @@ const solve = () => {
 const clr = () => {
     document.getElementById("input_plus_past").value = " ";
 }
-
-
